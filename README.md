@@ -1,9 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Someet</h1>
 
-I am currently a student, just started my journey in Open-Source. I'm learing Machine Learning, applying it and contributing. Currently I'm learning about ML models, transformers, LLMs, RL(🤗hugging face-a powerful library for natural language processing and machine learning).
+I am currently a student, just started my journey in Open-Source. I'm learing Machine Learning, applying it and contributing. Currently I'm learning about ML models, LLMs and Vision models. I have worked specifically on Onject detection models and finetuning for specific models.
+Next I have started learning about Vision-Language models ( VLM ). Let's see what projects I can create in it.
 
-
-I am also passionate about quantum computing and learning as much as I can about this exciting field. I am currently exploring different quantum computing frameworks and technologies, and particularly interested in using Qiskit to build and run quantum computing programs. Always looking for new opportunities to learn and grow as a quantum computing enthusiast, and very much excited to see what the future holds for this rapidly developing field.
 
 If you share the same passion for Machine Learning and quantum computing and want to collaborate on projects or just chat about the latest developments, feel free to reach out! 
 
